@@ -1,0 +1,16 @@
+SMAP
+accountdetailsui_jsp.java
+JSP
+*S JSP
+*F
++ 0 accountdetailsui.jsp
+accountdetailsui.jsp
+*L
+5,48:54
+56,6:106
+61,6:112
+72,22:124
+93,23:146
+115,13:169
+127,4:182
+*E
